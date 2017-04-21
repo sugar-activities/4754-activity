@@ -1,0 +1,6 @@
+[Activity]
+name = Ahorcadito
+activity_version = 8
+bundle_id = org.laboratoriosazucar.ahorcadito
+icon = activity-colgadito
+exec = sugar-activity activity.Activity
